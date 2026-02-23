@@ -10,7 +10,7 @@
 | 類別 | 技術 |
 | :--- | :--- |
 | **程式語言** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|
-| **框架/庫** | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| **框架/庫** | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) |
 | **UI 設計** | ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) |
 | **影片剪輯** | ![Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-CF96FD?style=flat-square&logo=adobeaftereffects&logoColor=white) |
 
