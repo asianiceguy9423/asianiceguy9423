@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=你好%20很高興見到你&animation=blink&fontAlign=50&section=header&reversal=false&fontColor=000000&desc=往下查看我的簡介&descAlign=50&descAlignY=72&descSize=24)
-### 👨‍💻 關於我
-- 👋 你好！我是 **蔡承嶧**
+### 👋 你好！我是 蔡承嶧 (Cheng-Yi Tsai)
+### 🚀 從設計與行銷跨足技術開發的工程師
 - 🔭 目前專注於 **全端**與**資料庫管理**
 - 💬 我曾任職 **設計師助理** 和 **商業行銷**
 - 💼[個人履歷](https://github.com/asianiceguy9423/Resume)
