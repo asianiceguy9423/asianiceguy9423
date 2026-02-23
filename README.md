@@ -15,13 +15,6 @@
 
 ---
 
-### 📊 GitHub 統計數據
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的帳號名稱&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的帳號名稱&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 📫 如何聯繫我
 - 📧 Email: `your-email@example.com`
