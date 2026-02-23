@@ -10,15 +10,16 @@
 | 類別 | 技術 |
 | :--- | :--- |
 | **程式語言** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **框架/庫** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
-| **工具** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **框架/庫** |  ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| **UI** | 這邊改成photoshop、illus圖標 |
+| **影片剪輯** | 這邊改成ae、pr圖標 |
 
 ---
 
 
-### 📫 如何聯繫我
+### 過往作品
 - 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: [你的領英連結](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [你的領英連結]([https://linkedin.com/in/yourprofile](https://github.com/asianiceguy9423/consulting_firm_website))
 - ✍️ Blog: [你的個人部落格](https://yourblog.com)
 
 ---
