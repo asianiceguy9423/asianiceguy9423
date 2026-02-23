@@ -19,7 +19,6 @@
 
 
 ### 過往作品
-- 📧 Email: `your-email@example.com`
 - [諮詢事務所網站](https://github.com/asianiceguy9423/consulting_firm_website)
 - [線上購物平台](https://github.com/asianiceguy9423/clothes_shop)
 - [貓咪培養遊戲](https://github.com/asianiceguy9423/cat_game)
