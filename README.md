@@ -10,17 +10,18 @@
 | 類別 | 技術 |
 | :--- | :--- |
 | **程式語言** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **框架/庫** |  ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
-| **UI** | 這邊改成photoshop、illus圖標 |
-| **影片剪輯** | 這邊改成ae、pr圖標 |
+| **框架/庫** | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| **UI 設計** | ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) |
+| **影片剪輯** | ![Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-CF96FD?style=flat-square&logo=adobeaftereffects&logoColor=white) |
 
 ---
 
 
 ### 過往作品
 - 📧 Email: `your-email@example.com`
-- [諮詢事務所網站](https://github.com/asianiceguy9423/consulting_firm_website) 
-- 💼 LinkedIn: (https://github.com/asianiceguy9423/consulting_firm_website)
-- ✍️ Blog: [你的個人部落格](https://yourblog.com)
+- [諮詢事務所網站](https://github.com/asianiceguy9423/consulting_firm_website)
+- [線上購物平台](https://github.com/asianiceguy9423/clothes_shop)
+- [貓咪培養遊戲](https://github.com/asianiceguy9423/cat_game)
+- [聊天室](https://github.com/asianiceguy9423?tab=repositories)
 
 ---
