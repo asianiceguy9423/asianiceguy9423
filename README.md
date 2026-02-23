@@ -19,7 +19,7 @@
 
 ### 過往作品
 - 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: [你的領英連結]([https://linkedin.com/in/yourprofile](https://github.com/asianiceguy9423/consulting_firm_website))
+- 💼 LinkedIn: (https://github.com/asianiceguy9423/consulting_firm_website)
 - ✍️ Blog: [你的個人部落格](https://yourblog.com)
 
 ---
